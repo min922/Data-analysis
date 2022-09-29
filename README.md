@@ -5,9 +5,11 @@
 - Onehotencoding, correlation coefficient, GridSearch 사용
 - f1 score : 0.9
 
+
 ## Basketball - Home team
 - 2015-2016 시즌의 NBA 경기 기록 데이터를 사용하여 홈팀의 승패를 예측하는 모델을 만듦
 - 데이터의 형태
+
 
 |Row Name|Description|
 |--|--|
@@ -24,6 +26,7 @@
 - 테스트 성능이 최대가 되는 CIFAR-10 Data set image classification model을 만듦
 - 사전 훈련된 구현 model인 VGG의 learning rate, batch size를 바꾸어가며 test
 - Maximum Accuracy : 88.54%
+
 
 ## STL-10 Data set classification - non trained model
 - 테스트 성능이 최대가 되는 STL-10 Data set image classification model을 만듦
