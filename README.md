@@ -19,8 +19,8 @@
 |HomePts|홈팀 득점|
 |Attend.|관중수|
 
-- DecisionTreeClassifier 사용
-- f1 score : 0.78
+- DecisionTreeClassifier 사용(max_depth = 15, random_state = 42)
+- f1 score : 0.89
 
 ## CIFAR-10 Data set classification - trained model
 - 테스트 성능이 최대가 되는 CIFAR-10 Data set image classification model을 만듦
